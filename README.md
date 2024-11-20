@@ -11,5 +11,4 @@ HTML Templates
 Connected to backend using EJS template engine
 
 ## Project creators
-### Shrirama Kamath
-### Shubham Saurav
+### Aditya
